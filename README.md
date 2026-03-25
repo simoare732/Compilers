@@ -96,8 +96,8 @@ LLVM Instruction documentation: https://llvm.org/doxygen/classllvm_1_1Instructio
 ```
 <!-- FILETREE END -->
 
-# Made by
-Aresta Simone
-Alioto Cristian Piero
-Astolfi Luca
-Date: 06-01-2025 mm-dd-yyyy
+## Made by
+- Aresta Simone
+- Alioto Cristian Piero
+- Astolfi Luca
+- Date: 06-01-2025 mm-dd-yyyy

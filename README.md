@@ -1,10 +1,6 @@
 # CompilersAssignments
 This repository contains the code and the documentation related to the course compilers part II assignments (little "at home" projects).
 
-Members in alphabetical order:
-- Alioto Cristian Piero
-- Aresta Simone
-- Astolfi Luca
 
 ## Contents of this page
 - [Introduction](#introduction)
@@ -99,3 +95,9 @@ LLVM Instruction documentation: https://llvm.org/doxygen/classllvm_1_1Instructio
 4 directories, 7 files
 ```
 <!-- FILETREE END -->
+
+# Made by
+Aresta Simone
+Alioto Cristian Piero
+Astolfi Luca
+Date: 06-01-2025 mm-dd-yyyy
